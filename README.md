@@ -145,34 +145,7 @@ Accurate satellite clock prediction can improve:
 
 ---
 
-# Future Work
 
-Possible extensions of this research:
-
-- Multi-satellite prediction
-- Multi-step forecasting
-- Transformer-based models
-- Integration with physics-based models
-- Real-time API deployment
-- Space weather and temperature features
-
----
-
-# Project Structure
-
-```
-project/
-│
-├── data/
-├── notebooks/
-├── models/
-├── preprocessing/
-├── training/
-├── evaluation/
-└── README.md
-```
-
----
 
 # Authors
 
